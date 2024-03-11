@@ -7,7 +7,7 @@ The project is a graduate project at the bachelor's level. Faculty of Engineerin
 
 ### Installation
 ```
-Dowload both file and extract file Makruk Database.zip
+Download both file and extract file Makruk Database.zip
 ```
 
 [mkdb-cource-code-url]: https://github.com/PhithakB/Makruk-Database-Project
