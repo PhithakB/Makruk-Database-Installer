@@ -11,4 +11,4 @@ Dowload both file and extract file Makruk Database.zip
 ```
 
 [mkdb-cource-code-url]: https://github.com/PhithakB/Makruk-Database-Project
-[mkdb-cource-code-shield]: https://img.shields.io/badge/Makruk%20Database%20Installer-000000?style=for-the-badge&logoColor=white
+[mkdb-cource-code-shield]: https://img.shields.io/badge/Makruk%20Database%20Source%20Code-000000?style=for-the-badge&logoColor=white
